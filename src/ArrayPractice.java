@@ -74,6 +74,8 @@ public class ArrayPractice {
         // special for loop for each
         for (String s : shoppingList){
             System.out.println(s);
+
         }
+
     }
 }
