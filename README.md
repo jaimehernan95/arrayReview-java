@@ -1,5 +1,9 @@
 # arrayReview-java
 
-<img src="imagesArray/arrayExample.png">
+<img src="https://github.com/jaimehernan95/arrayReview-java/blob/master/imagesArray/arrayExample.png
+">
 
-![](imagesArray/arrayExample.png)
+![](https://github.com/jaimehernan95/arrayReview-java/blob/master/imagesArray/arrayExample.png
+)
+
+https://github.com/jaimehernan95/arrayReview-java/blob/master/imagesArray/arrayExample.png
