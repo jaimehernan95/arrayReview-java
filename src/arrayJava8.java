@@ -6,6 +6,7 @@ public class arrayJava8 {
         int[] intArray = new int[] {1, 2, 3, 4, 5};
         String[] strArray = new String[] {"John", "Mary", "Bob"};
 
+
         //Prior to Java 8
         System.out.println(Arrays.toString(intArray));
         System.out.println(Arrays.toString(strArray));
